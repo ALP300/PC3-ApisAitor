@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APISApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6eab194ec3fde4096cd605a224dcbe22ea1958")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718309d7bb4b990397067485b55d120d3cb5473a")]
 [assembly: System.Reflection.AssemblyProductAttribute("APISApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APISApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
